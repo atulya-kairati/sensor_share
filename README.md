@@ -1,3 +1,3 @@
-# sensor_share_final
+# sensor_share_final (Prototype)
 
-For Sharing Android hardware
+For Sharing Android hardware 
