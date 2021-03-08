@@ -1,6 +1,6 @@
 # sensor_share_final
 
-A new Flutter application.
+For Share in android Hardware
 
 ## Getting Started
 
